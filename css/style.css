@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+p{
+  width: 100%;
+  margin: 40px 0px;
+  padding: 0px 100px;
+}
+h1{
+  width: 80%;
+  font-size: 110px;
+  font-style: oblique;
+  margin: 20px;
+  padding-left: 70px;
+}
+.me{
+  width: 100%;
+  font-size: 40px;
+  padding: 0px 100px;
+
+}
+.container{
+  width: 800%;
+  margin: auto;
+
+}
+.my ul{
+  list-style: none;
+}
+.my ul li{
+  display: inline;
+}
+.my ul li a{
+  font-size: 40px;
+  padding: 5px 5px 5px 100px;
+  background-color: #fff;
+  color: black;
+  display: inline-block;
+  border-radius: 50%;
+}
+.my ul li a:hover{
+  background-color: #fff;
+  color: blue;
+  transition: 2s;
+}
+.you{
+  margin: 20px;
+}
+.you a{
+  font-size: 25px;
+  text-decoration: none;
+  padding: 10px 100px;
+  background-color: #fff;
+  color: black;
+  border-radius: 15px;
+  box-shadow: 5px 7px 15px #000;
+ 
+  }
+  
